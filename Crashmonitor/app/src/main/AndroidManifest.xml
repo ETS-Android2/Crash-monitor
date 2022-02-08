@@ -16,7 +16,7 @@
         android:theme="@style/Theme.CrashMonitor"
         tools:replace="android:name">
 
-        <meta-data android:name="io.sentry.dsn" android:value="https://9898e5363a8c4295b3d84479a04cee8b@sentry.scoopwhoop.com/18" />
+        <meta-data android:name="io.sentry.dsn" android:value="" />
 
         <activity android:name=".activities.MainActivity">
             <intent-filter>
