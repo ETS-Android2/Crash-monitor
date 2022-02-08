@@ -1,0 +1,3 @@
+include ':vital-monitor'
+include ':app'
+rootProject.name = "Crash monitor"

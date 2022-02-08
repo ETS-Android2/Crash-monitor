@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409460125283",
+    "project_id": "library-testing-4d95d",
+    "storage_bucket": "library-testing-4d95d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409460125283:android:ade8f5084fc6364e0f5256",
+        "android_client_info": {
+          "package_name": "com.lol.crashmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409460125283-2s4h1a37sl4pll2f4ik35qvo1ees8c9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAtSxk0V7WObCOSj_SlSK2DCCn_Maf7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409460125283-2s4h1a37sl4pll2f4ik35qvo1ees8c9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

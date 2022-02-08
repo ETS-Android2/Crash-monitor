@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crash monitor</string>
+    <string name="please_check_internet_connection" translatable="false">Please check internet connection</string>
+
+</resources>
